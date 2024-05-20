@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/jesseblank/Desktop/codingDojo/Projects/java-project/BAC-project/server/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3925476717.index
+371339295.index
+901522658.index
+213170932.index
+783798895.index
+4067270363.index
